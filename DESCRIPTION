@@ -10,8 +10,8 @@ Description: Tools for processing British Columbia's Vegetation Resources Invent
     processing, and execute the complete VDYP7 workflow including parameter file creation,
     execution, and post-processing of results.
 License: MIT + file LICENSE
-URL: https://github.com/dfelixsattler/bcVDYPMSYTyieldcurves
-BugReports: https://github.com/dfelixsattler/bcVDYPMSYTyieldcurves/issues
+URL: https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves
+BugReports: https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves/issues
 Encoding: UTF-8
 Depends: 
     R (>= 4.0.0)

@@ -35,7 +35,7 @@ This package ships **no data**. You must supply, for a common inventory year:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("dfelixsattler/bcVDYPMSYTyieldcurves")
+devtools::install_github("forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves")
 ```
 
 ## Quick start
