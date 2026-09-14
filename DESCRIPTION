@@ -1,0 +1,32 @@
+Package: bcyieldcurves
+Type: Package
+Title: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7
+Version: 0.1.0
+Authors@R: 
+    person("Derek", "Sattler", , "derek.sattler@nrcan-rncan.gc.ca", role = c("aut", "cre"))
+Description: Tools for processing British Columbia's Vegetation Resources Inventory (VRI) 
+    data and generating forest yield curves. The package provides functions to subset VRI data,
+    match polygons to existing managed stand yield curves, identify records requiring VDYP7 
+    processing, and execute the complete VDYP7 workflow including parameter file creation,
+    execution, and post-processing of results.
+License: MIT + file LICENSE
+URL: https://github.com/dfelixsattler/bcVDYPMSYTyieldcurves
+BugReports: https://github.com/dfelixsattler/bcVDYPMSYTyieldcurves/issues
+Encoding: UTF-8
+Depends: 
+    R (>= 4.0.0)
+Imports:
+    sf,
+    dplyr,
+    readr,
+    ggplot2,
+    viridis,
+    data.table,
+    fs,
+    rlang,
+    tidyr,
+    RColorBrewer
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
