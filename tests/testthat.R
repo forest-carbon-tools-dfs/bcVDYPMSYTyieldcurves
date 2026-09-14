@@ -1,4 +1,4 @@
 library(testthat)
-library(bcyieldcurves)
+library(bcVDYPMSYTyieldcurves)
 
-test_check("bcyieldcurves")
+test_check("bcVDYPMSYTyieldcurves")

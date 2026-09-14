@@ -1,4 +1,4 @@
-# bcyieldcurves
+# bcVDYPMSYTyieldcurves
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,7 +40,7 @@ devtools::install_github("dfelixsattler/bcVDYPMSYTyieldcurves")
 ## Quick start
 
 ```r
-library(bcyieldcurves)
+library(bcVDYPMSYTyieldcurves)
 
 # 1. Subset VRI to an area of interest and export a flat CSV
 vri_aoi <- create_vri_subset(

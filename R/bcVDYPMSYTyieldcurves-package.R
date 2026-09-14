@@ -1,7 +1,7 @@
 #' @keywords internal
 "_PACKAGE"
 
-#' @title bcyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves
+#' @title bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves
 #'
 #' @description
 #' This package provides tools for processing British Columbia's Vegetation
@@ -40,7 +40,7 @@
 #'   \item VDYP7 geodatabase (VDYP7 gdb from BC data catalogue)
 #' }
 #'
-#' @name bcyieldcurves
+#' @name bcVDYPMSYTyieldcurves
 #' @author Derek Sattler
 #' @keywords forest yield curves MSYT VDYP7 British Columbia
 #'
