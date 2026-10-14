@@ -99,6 +99,18 @@ vdyp_processed <- process_vdyp_output(
 )
 ```
 
+## How to Cite
+
+If you use bcVDYPMSYTyieldcurves in published work, please cite it as:
+
+> Sattler, D. (2026). *bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7*. R package version 0.1.0. https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves
+
+A machine-readable citation is also available in R via:
+
+```r
+citation("bcVDYPMSYTyieldcurves")
+```
+
 ## License
 
 MIT © Derek Sattler

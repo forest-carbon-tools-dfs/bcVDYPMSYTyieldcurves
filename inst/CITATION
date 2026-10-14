@@ -1,0 +1,16 @@
+citHeader("To cite bcVDYPMSYTyieldcurves in publications, use:")
+
+bibentry(
+  bibtype     = "Manual",
+  title       = "bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7",
+  author      = person("Derek", "Sattler"),
+  year        = "2026",
+  note        = "R package version 0.1.0",
+  url         = "https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves",
+  textVersion = paste(
+    "Sattler, D. (2026).",
+    "bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7.",
+    "R package version 0.1.0.",
+    "https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves"
+  )
+)
