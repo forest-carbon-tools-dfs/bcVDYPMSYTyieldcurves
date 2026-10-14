@@ -3,7 +3,8 @@
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves/actions/workflows/R-CMD-check.yaml)
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![Citation](https://img.shields.io/badge/Citation-R_package-blue.svg)](#how-to-cite)
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
 <!-- badges: end -->
 
@@ -103,7 +104,7 @@ vdyp_processed <- process_vdyp_output(
 
 If you use bcVDYPMSYTyieldcurves in published work, please cite it as:
 
-> Sattler, D. (2026). *bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7*. R package version 0.1.0. https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves
+> Sattler, D. (2026). *bcVDYPMSYTyieldcurves: Process BC Forest Inventory Data and Generate Yield Curves via VDYP7*. Natural Resources Canada. R package version 0.1.0. https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves
 
 A machine-readable citation is also available in R via:
 
@@ -113,4 +114,12 @@ citation("bcVDYPMSYTyieldcurves")
 
 ## License
 
-MIT © Derek Sattler
+This software was developed by Derek Sattler as part of his work at
+Natural Resources Canada (NRCan).
+
+Copyright (c) 2025-2026 His Majesty the King in Right of Canada, as represented
+by the Minister of Natural Resources.
+
+The repository retains the [MIT License](LICENSE.md). Departmental confirmation
+of the licence choice is pending; retaining MIT here does not constitute
+confirmation of departmental approval.
